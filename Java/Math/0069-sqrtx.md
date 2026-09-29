@@ -25,8 +25,9 @@ class Solution {
 }
 ```
 
+
 **Notes:**
 
-**Time Complexity:** 
-**Space Complexity:**
+**Time Complexity:** O(n)
+**Space Complexity:** log(n)
 
