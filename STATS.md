@@ -1,6 +1,6 @@
 # LeetHub Sync — Progress
 
-_Last updated: 2026-09-29 19:51_
+_Last updated: 2026-09-29 20:22_
 
 **Total problems solved:** 2
 
@@ -16,8 +16,8 @@ _Last updated: 2026-09-29 19:51_
 
 ### By topic
 
-- Math: 1
 - Hash Table: 1
+- Math: 1
 
 ### Table of contents
 
