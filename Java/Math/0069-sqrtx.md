@@ -26,8 +26,11 @@ class Solution {
 ```
 
 
+
 **Notes:**
 
-**Time Complexity:** O(n)
-**Space Complexity:** log(n)
+# notes
+**Saved**
+***After***
+*Pusing code*
 
