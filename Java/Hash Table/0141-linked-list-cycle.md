@@ -70,3 +70,12 @@ public class Solution {
     }
 }
 ```
+
+**Notes:**
+
+# Floyd's cycle Finding Algorithm 
+*OR*
+# Tortoise & Heir Algorithm
+**TC** : O(1)
+**SC** : O(n)
+
