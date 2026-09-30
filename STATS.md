@@ -1,29 +1,37 @@
-# LeetHub Sync — Progress
+# 🧩 LeetStash — Progress
 
-_Last updated: 2026-09-29 20:35_
+_Last updated: 2026-09-30 11:13_
 
-**Total problems solved:** 3
+![Solved](https://img.shields.io/badge/Solved-1-2ea043?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-1-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-0-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge)
 
-| Difficulty | Count |
-|---|---|
-| Easy | 3 |
-| Medium | 0 |
-| Hard | 0 |
+## Difficulty breakdown
 
-### By language
+```mermaid
+pie showData title Problems by Difficulty
+    "Easy" : 1
+    "Medium" : 0
+    "Hard" : 0
+```
 
-- Java: 3
+## By language
 
-### By topic
+| Language | Count | |
+|---|---|---|
+| Java | 1 | `████████████████████` |
 
-- Hash Table: 1
-- Math: 1
-- Greedy: 1
+## By topic
 
-### Table of contents
+```mermaid
+pie showData title Problems by Topic
+    "Greedy" : 1
+```
+
+| Topic | Count | |
+|---|---|---|
+| Greedy | 1 | `████████████████████` |
+
+## Table of contents
 
 | # | Problem | Difficulty | Topic | Language |
 |---|---|---|---|---|
-| 69 | [Sqrt(x)](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/0069-sqrtx.md) | Easy | Math | Java |
-| 141 | [Linked List Cycle](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0141-linked-list-cycle.md) | Easy | Hash Table | Java |
-| 561 | [Array Partition](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/0561-array-partition.md) | Easy | Greedy | Java |
+| 409 | [Longest Palindrome](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/0409-longest-palindrome.md) | Easy | Greedy | Java |
