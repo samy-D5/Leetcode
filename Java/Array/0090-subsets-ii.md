@@ -4,7 +4,9 @@
 **Link:** https://leetcode.com/problems/subsets-ii/
 **Tags:** Array, Backtracking, Bit Manipulation
 
-## Approach 1 — 2026-09-29 13:05 (java)
+## Approach 1 — 2026-10-02 00:35 (java)
+
+*Runtime: 2 ms (faster than 99.7%) · Memory: 45.1 MB · Time to solve: 37s*
 
 ```java
 class Solution {
@@ -30,3 +32,9 @@ class Solution {
     }
 }
 ```
+
+**Notes:**
+
+**Time Complexity:** **O(n)**
+**Space Complexity:** *log(n)*
+
