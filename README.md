@@ -1,16 +1,16 @@
 <!-- leetstash:stats:start -->
 # 🧩 LeetStash — Progress
 
-_Last updated: 2026-10-05 23:20_
+_Last updated: 2026-10-06 16:10_
 
-![Solved](https://img.shields.io/badge/Solved-6-2ea043?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-3-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-3-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge)
+![Solved](https://img.shields.io/badge/Solved-7-2ea043?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-3-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge)
 
 ## Difficulty breakdown
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"pie1":"#00b8a3","pie2":"#ffc01e","pie3":"#ff375f"}}}%%
 pie showData title Problems by Difficulty
-    "Easy" : 3
+    "Easy" : 4
     "Medium" : 3
     "Hard" : 0
 ```
@@ -20,25 +20,25 @@ pie showData title Problems by Difficulty
 | Language | Count | |
 |---|---|---|
 | Java | 5 | `████████████████████` |
-| mysql | 1 | `████░░░░░░░░░░░░░░░░` |
+| mysql | 2 | `████████░░░░░░░░░░░░` |
 
 ## By topic
 
 ```mermaid
 pie showData title Problems by Topic
+    "Database" : 2
     "Greedy" : 2
     "Backtracking" : 1
     "Binary Search" : 1
-    "Database" : 1
     "Stack" : 1
 ```
 
 | Topic | Count | |
 |---|---|---|
+| Database | 2 | `████████████████████` |
 | Greedy | 2 | `████████████████████` |
 | Backtracking | 1 | `██████████░░░░░░░░░░` |
 | Binary Search | 1 | `██████████░░░░░░░░░░` |
-| Database | 1 | `██████████░░░░░░░░░░` |
 | Stack | 1 | `██████████░░░░░░░░░░` |
 
 ## Table of contents
@@ -47,6 +47,7 @@ pie showData title Problems by Topic
 |---|---|---|---|---|
 | 35 | [Search Insert Position](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/0035-search-insert-position.md) | Easy | Binary Search | Java |
 | 90 | [Subsets II](https://github.com/samy-D5/Leetcode/blob/main/Java/Backtracking/0090-subsets-ii.md) | Medium | Backtracking | Java |
+| 197 | [Rising Temperature](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0197-rising-temperature.md) | Easy | Database | mysql |
 | 409 | [Longest Palindrome](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/0409-longest-palindrome.md) | Easy | Greedy | Java |
 | 856 | [Score of Parentheses](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/0856-score-of-parentheses.md) | Medium | Stack | Java |
 | 1070 | [Product Sales Analysis III](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/1070-product-sales-analysis-iii.md) | Medium | Database | mysql |
