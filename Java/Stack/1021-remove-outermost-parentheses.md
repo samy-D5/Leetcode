@@ -29,3 +29,10 @@ class Solution {
     }
 }
 ```
+
+**AI Analysis:**
+
+- **Complexity:** Time: O(n) · Space: O(n)
+- **Approach:** The algorithm tracks the nesting depth of parentheses using an integer counter (`open`) initialized to 1 for the first character. As it iterates through the remaining characters, it only appends an opening parenthesis if the depth is greater than 1 after incrementing, and only appends a closing parenthesis if the depth is greater than 1 before decrementing. This effectively filters out the outermost parentheses of each primitive decomposition without needing an explicit stack.
+- **Pattern:** Balance Counter (Stack Simulation) - Tracks parentheses nesting depth with a counter instead of a full stack because the string is guaranteed to be valid and only one bracket type is present.
+
