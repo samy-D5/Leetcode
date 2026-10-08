@@ -59,3 +59,10 @@ class Solution {
     }
 }
 ```
+
+**AI Analysis:**
+
+- **Complexity:** Time: O(n) · Space: O(n)
+- **Approach:** Iterate through the input string while maintaining a stack to track the nesting depth of parentheses. When an opening bracket '(' is encountered, append it to the result only if the stack already contains elements (omitting the outermost bracket), then push it onto the stack. When a closing bracket ')' is encountered, pop from the stack first and append the bracket only if the stack remains non-empty.
+- **Pattern:** Stack / Bracket Depth Tracking: Parentheses nesting levels can be modeled using a stack, where outermost brackets correspond strictly to transitions to and from a depth of zero.
+
