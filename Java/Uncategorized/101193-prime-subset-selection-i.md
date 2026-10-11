@@ -41,3 +41,10 @@ class Solution {
     // }
 }
 ```
+
+**AI Analysis:**
+
+- **Complexity:** Time: O(n√n) · Space: O(1)
+- **Approach:** The algorithm iterates through numbers from 2 up to n, testing each candidate for primality using trial division up to its square root. It greedily adds the smallest primes encountered to the list and maintains a running sum, terminating as soon as adding the next prime would exceed the target sum s.
+- **Pattern:** Greedy Selection with Trial Division Primality Testing (picking the smallest elements first maximizes the total number of primes that fit within the sum constraint)
+
