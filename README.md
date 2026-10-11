@@ -1,9 +1,9 @@
 <!-- leetstash:stats:start -->
 # 🧩 LeetStash — Progress
 
-_Last updated: 2026-10-11 08:32_
+_Last updated: 2026-10-11 09:29_
 
-![Solved](https://img.shields.io/badge/Solved-9-2ea043?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-6-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-3-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge)
+![Solved](https://img.shields.io/badge/Solved-10-2ea043?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-6-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-4-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge)
 
 ## Difficulty breakdown
 
@@ -11,7 +11,7 @@ _Last updated: 2026-10-11 08:32_
 %%{init: {"theme":"base","themeVariables":{"pie1":"#00b8a3","pie2":"#ffc01e","pie3":"#ff375f"}}}%%
 pie showData title Problems by Difficulty
     "Easy" : 6
-    "Medium" : 3
+    "Medium" : 4
     "Hard" : 0
 ```
 
@@ -19,8 +19,8 @@ pie showData title Problems by Difficulty
 
 | Language | Count | |
 |---|---|---|
-| Java | 7 | `████████████████████` |
-| mysql | 2 | `██████░░░░░░░░░░░░░░` |
+| Java | 8 | `████████████████████` |
+| mysql | 2 | `█████░░░░░░░░░░░░░░░` |
 
 ## By topic
 
@@ -29,9 +29,9 @@ pie showData title Problems by Topic
     "Database" : 2
     "Greedy" : 2
     "Stack" : 2
+    "Uncategorized" : 2
     "Backtracking" : 1
     "Binary Search" : 1
-    "Uncategorized" : 1
 ```
 
 | Topic | Count | |
@@ -39,9 +39,9 @@ pie showData title Problems by Topic
 | Database | 2 | `████████████████████` |
 | Greedy | 2 | `████████████████████` |
 | Stack | 2 | `████████████████████` |
+| Uncategorized | 2 | `████████████████████` |
 | Backtracking | 1 | `██████████░░░░░░░░░░` |
 | Binary Search | 1 | `██████████░░░░░░░░░░` |
-| Uncategorized | 1 | `██████████░░░░░░░░░░` |
 
 ## Table of contents
 
@@ -55,5 +55,6 @@ pie showData title Problems by Topic
 | 1021 | [Remove Outermost Parentheses](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1021-remove-outermost-parentheses.md) | Easy | Stack | Java |
 | 1070 | [Product Sales Analysis III](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/1070-product-sales-analysis-iii.md) | Medium | Database | mysql |
 | 1221 | [Split a String in Balanced Strings](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/1221-split-a-string-in-balanced-strings.md) | Easy | Greedy | Java |
+| 101193 | [Prime Subset Selection I](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) | Medium | Uncategorized | Java |
 | 101210 | [Three Fibonacci Sum](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) | Easy | Uncategorized | Java |
 <!-- leetstash:stats:end -->
