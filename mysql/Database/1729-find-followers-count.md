@@ -29,3 +29,57 @@ from followers
 group by user_id
 order by user_id;
 ```
+
+## Approach 3 — 2024-10-04 21:56 (mysql)
+
+*Runtime: 492 ms (faster than 98.0%) · Memory: 0B*
+
+```mysql
+# Write your MySQL query statement below
+select user_id,
+count(*) AS followers_count
+from followers
+group by user_id
+order by user_id;
+```
+
+## Approach 4 — 2024-10-04 21:57 (mysql)
+
+*Runtime: 466 ms (faster than 99.7%) · Memory: 0B*
+
+```mysql
+# Write your MySQL query statement below
+select user_id,
+count(distinct(follower_id)) AS followers_count
+from followers
+group by user_id
+```
+
+## Approach 5 — 2024-10-04 21:59 (mysql)
+
+*Runtime: 756 ms (faster than 13.0%) · Memory: 0B*
+
+```mysql
+# Write your MySQL query statement below
+select user_id,
+count(follower_id) AS followers_count
+from followers
+group by user_id
+order by user_id asc;
+```
+
+## Approach 6 — 2024-10-04 22:03 (mysql)
+
+*Runtime: 685 ms (faster than 22.0%) · Memory: 0B*
+
+```mysql
+# Write your MySQL query statement below
+select user_id,
+(select count(*) 
+from followers as f2
+where f2.user_id= f1.user_id) as followers_count
+from(
+    select distinct user_id from followers
+) as f1
+order by user_id asc;
+```

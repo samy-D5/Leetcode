@@ -39,3 +39,21 @@ class Solution {
     }
 }
 ```
+
+## Approach 3 — 2025-07-16 19:19 (java)
+
+*Runtime: 1 ms (faster than 99.8%) · Memory: 45.4 MB*
+
+```java
+class Solution {
+    public String largestOddNumber(String num) {
+        int i = num.length()-1;
+        while(i >= 0){
+            int n = num.charAt(i);
+            if(n%2 == 1) return num.substring(0, i+1);
+            i--;
+        }
+        return "";
+    }
+}
+```
