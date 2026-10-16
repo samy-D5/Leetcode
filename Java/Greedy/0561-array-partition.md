@@ -21,3 +21,21 @@ class Solution {
     }
 }
 ```
+
+## Approach 2 — 2024-06-19 15:19 (java)
+
+*Runtime: 15 ms (faster than 96.7%) · Memory: 46.5 MB*
+
+```java
+class Solution {
+    public int arrayPairSum(int[] nums) {
+        Arrays.sort(nums);
+        int i=0,sum=0;
+        while(i<nums.length){
+            sum+=nums[i];
+            i+=2;
+        }
+        return sum;
+    }
+}
+```

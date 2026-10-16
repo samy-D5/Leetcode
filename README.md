@@ -12,7 +12,7 @@
 
 
 
-⏳ 349 solved problems still being imported from LeetCode.
+⏳ 336 solved problems still being imported from LeetCode.
 
 </div>
 
@@ -44,8 +44,8 @@
 xychart-beta
     title "Problems solved (total)"
     x-axis ["Nov 25", "Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26", "May 26", "Jun 26", "Jul 26", "Aug 26", "Sept 26", "Oct 26"]
-    y-axis "Solved" 0 --> 50
-    line [30, 32, 32, 32, 32, 32, 34, 34, 34, 34, 36, 41]
+    y-axis "Solved" 0 --> 65
+    line [41, 43, 45, 45, 45, 45, 47, 47, 47, 47, 49, 54]
 ```
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
@@ -143,10 +143,11 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 | Language | Problems | |
 |---|---|---|
-| Java | 44 | `████████████████` |
-| mysql | 2 | `█░░░░░░░░░░░░░░░` |
+| Java | 51 | `████████████████` |
+| mysql | 8 | `███░░░░░░░░░░░░░` |
 | C++ | 1 | `█░░░░░░░░░░░░░░░` |
 | pythondata | 1 | `█░░░░░░░░░░░░░░░` |
+| postgresql | 1 | `█░░░░░░░░░░░░░░░` |
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
@@ -222,13 +223,13 @@ _Grouped by topic folder. Click a topic to expand it._
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 197 | Rising Temperature | 🟢 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0197-rising-temperature.md) | 1 | - | - | - |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Database/0511-game-play-analysis-i.md) | 1 | 301 ms, beats 50.4% | - | 19 May 2026 |
-| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | 🟡 | ⏳ not imported yet | - | - | - | - |
-| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 | ⏳ not imported yet | - | - | - | - |
-| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | 🟡 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0550-game-play-analysis-iv.md) | 1 | 548 ms, beats 83.6% | - | 26 Sept 2024 |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0570-managers-with-at-least-5-direct-reports.md) | 1 | 349 ms, beats 76.3% | - | 17 Sept 2024 |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0577-employee-bonus.md) | 2 | 814 ms, beats 99.8% | - | 15 Sept 2024 |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0595-big-countries.md) | 2 | 338 ms, beats 26.8% | - | 9 Sept 2024 |
+| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | 🟢 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0596-classes-with-at-least-5-students.md) · [postgresql](https://github.com/samy-D5/Leetcode/blob/main/postgresql/Database/0596-classes-with-at-least-5-students.md) | 2 | 339 ms, beats 62.9% | - | 3 Oct 2024 |
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | 🟢 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0619-biggest-single-number.md) | 1 | 367 ms, beats 99.4% | - | 6 Oct 2024 |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 | ⏳ not imported yet | - | - | - | - |
@@ -271,7 +272,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0217-contains-duplicate.md) | 1 | 19 ms, beats 47.3% | - | 1 Sept 2026 |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0442-find-all-duplicates-in-an-array.md) | 1 | 5 ms, beats 95.4% | - | 22 Dec 2024 |
-| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0575-distribute-candies.md) | 2 | 4 ms, beats 99.9% | - | 24 Sept 2025 |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 🟢 | ⏳ not imported yet | - | - | - | - |
@@ -327,7 +328,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0234-palindrome-linked-list.md) | 1 | 7 ms, beats 27.3% | - | 29 Sept 2026 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0283-move-zeroes.md) | 2 | 1 ms, beats 99.9% | - | 29 Sept 2024 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0344-reverse-string.md) | 2 | 0 ms, beats 100.0% | - | 30 Mar 2024 |
-| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0557-reverse-words-in-a-string-iii.md) | 1 | 3 ms, beats 99.4% | - | 9 Jun 2025 |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 | ⏳ not imported yet | - | - | - | - |
@@ -355,7 +356,7 @@ _Grouped by topic folder. Click a topic to expand it._
 
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
-| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/String/0520-detect-capital.md) | 1 | 1 ms, beats 89.1% | - | 31 Jul 2024 |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 🟢 | ⏳ not imported yet | - | - | - | - |
@@ -397,7 +398,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
 | 409 | Longest Palindrome | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/0409-longest-palindrome.md) | 1 | - | - | - |
-| 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/0561-array-partition.md) | 2 | 15 ms, beats 96.7% | - | 19 Jun 2024 |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | 🟢 | ⏳ not imported yet | - | - | - | - |
@@ -526,8 +527,8 @@ _Grouped by topic folder. Click a topic to expand it._
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0543-diameter-of-binary-tree.md) | 1 | 1 ms, beats 44.4% | - | 13 Jan 2026 |
+| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0559-maximum-depth-of-n-ary-tree.md) | 1 | 0 ms, beats 100.0% | - | 12 Jan 2026 |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | 🟡 | ⏳ not imported yet | - | - | - | - |
@@ -584,7 +585,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/0069-sqrtx.md) | 1 | 1 ms, beats 100.0% | - | 15 Jul 2024 |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/0350-intersection-of-two-arrays-ii.md) | 1 | 3 ms, beats 93.8% | - | 8 Jul 2024 |
-| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 | ⏳ not imported yet | - | - | - | - |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/0540-single-element-in-a-sorted-array.md) | 1 | 0 ms, beats 100.0% | - | 29 Oct 2024 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | 🟡 | ⏳ not imported yet | - | - | - | - |
