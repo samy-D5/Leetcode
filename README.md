@@ -12,7 +12,7 @@
 
 
 
-⏳ 290 solved problems still being imported from LeetCode.
+⏳ 288 solved problems still being imported from LeetCode.
 
 </div>
 
@@ -24,14 +24,14 @@
 |---|---|---|---|
 | 14 Oct 2026 | Sum of Squares of Special Elements  | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2778-sum-of-squares-of-special-elements.md) |
 | 11 Oct 2026 | Prime Subset Selection I | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) |
+| 11 Oct 2026 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4079-prime-subset-selection-i.md) |
 | 11 Oct 2026 | Three Fibonacci Sum | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) |
+| 11 Oct 2026 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) |
 | 9 Oct 2026 | Remove Outermost Parentheses | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1021-remove-outermost-parentheses.md) |
 | 7 Oct 2026 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) |
 | 29 Sept 2026 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0234-palindrome-linked-list.md) |
 | 23 Sept 2026 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Linked%20List/0021-merge-two-sorted-lists.md) |
 | 22 Sept 2026 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0019-remove-nth-node-from-end-of-list.md) |
-| 1 Sept 2026 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0217-contains-duplicate.md) |
-| 21 Aug 2026 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Backtracking/1863-sum-of-all-subset-xor-totals.md) |
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
@@ -44,8 +44,8 @@
 xychart-beta
     title "Problems solved (total)"
     x-axis ["Nov 25", "Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26", "May 26", "Jun 26", "Jul 26", "Aug 26", "Sept 26", "Oct 26"]
-    y-axis "Solved" 0 --> 115
-    line [84, 87, 90, 90, 90, 90, 92, 92, 92, 93, 95, 100]
+    y-axis "Solved" 0 --> 120
+    line [84, 87, 90, 90, 90, 90, 92, 92, 92, 93, 95, 102]
 ```
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
@@ -143,7 +143,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 | Language | Problems | |
 |---|---|---|
-| Java | 83 | `████████████████` |
+| Java | 85 | `████████████████` |
 | C++ | 12 | `██░░░░░░░░░░░░░░` |
 | mysql | 10 | `██░░░░░░░░░░░░░░` |
 | pythondata | 1 | `█░░░░░░░░░░░░░░░` |
@@ -507,8 +507,8 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 | ⏳ not imported yet | - | - | - | - |
+| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) | 1 | - | - | 11 Oct 2026 |
+| 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4079-prime-subset-selection-i.md) | 1 | - | - | 11 Oct 2026 |
 | 101193 | Prime Subset Selection I | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) | 1 | - | - | 11 Oct 2026 |
 | 101210 | Three Fibonacci Sum | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) | 1 | - | - | 11 Oct 2026 |
 
