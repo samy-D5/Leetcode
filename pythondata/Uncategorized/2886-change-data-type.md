@@ -28,3 +28,15 @@ def changeDatatype(students: pd.DataFrame) -> pd.DataFrame:
     students["grade"]=students["grade"].astype(int)
     return students
 ```
+
+## Approach 3 — 2026-06-03 23:50 (pythondata)
+
+*Runtime: 300 ms (faster than 28.1%) · Memory: 66.5 MB*
+
+```pythondata
+import pandas as pd
+
+def changeDatatype(students: pd.DataFrame) -> pd.DataFrame:
+    students['grade'] = students['grade'].astype(int)
+    return students
+```

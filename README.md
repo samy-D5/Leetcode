@@ -12,7 +12,7 @@
 
 
 
-⏳ 147 solved problems still being imported from LeetCode.
+⏳ 117 solved problems still being imported from LeetCode.
 
 </div>
 
@@ -44,8 +44,8 @@
 xychart-beta
     title "Problems solved (total)"
     x-axis ["Nov 25", "Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26", "May 26", "Jun 26", "Jul 26", "Aug 26", "Sept 26", "Oct 26"]
-    y-axis "Solved" 0 --> 280
-    line [213, 221, 224, 225, 225, 225, 233, 233, 233, 234, 236, 243]
+    y-axis "Solved" 0 --> 315
+    line [229, 239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 273]
 ```
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
@@ -143,14 +143,14 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 | Language | Problems | |
 |---|---|---|
-| Java | 174 | `████████████████` |
-| C++ | 34 | `███░░░░░░░░░░░░░` |
+| Java | 196 | `████████████████` |
+| C++ | 38 | `███░░░░░░░░░░░░░` |
 | mysql | 20 | `██░░░░░░░░░░░░░░` |
 | pythondata | 16 | `█░░░░░░░░░░░░░░░` |
-| C | 7 | `█░░░░░░░░░░░░░░░` |
-| JavaScript | 5 | `█░░░░░░░░░░░░░░░` |
+| C | 9 | `█░░░░░░░░░░░░░░░` |
+| JavaScript | 6 | `█░░░░░░░░░░░░░░░` |
+| Python | 2 | `█░░░░░░░░░░░░░░░` |
 | postgresql | 1 | `█░░░░░░░░░░░░░░░` |
-| Python | 1 | `█░░░░░░░░░░░░░░░` |
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
@@ -199,20 +199,20 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/2894-divisible-and-non-divisible-sums-difference.md) | 1 | 1 ms, beats 92.6% | - | 27 Jan 2024 |
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3024-type-of-triangle.md) | 1 | 1 ms, beats 55.7% | - | 25 Jun 2024 |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.md) | 2 | 0 ms, beats 100.0% | - | 22 Jun 2024 |
-| 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3232-find-if-digit-game-can-be-won.md) | 1 | 1 ms, beats 91.2% | - | 28 Jul 2024 |
 | 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3274-check-if-two-chessboard-squares-have-the-same-color.md) | 1 | 0 ms, beats 100.0% | - | 23 Dec 2024 |
-| 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3280-convert-date-to-binary.md) | 1 | 8 ms, beats 6.6% | - | 7 Dec 2024 |
+| 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 | [C](https://github.com/samy-D5/Leetcode/blob/main/C/Math/3289-the-two-sneaky-numbers-of-digitville.md) | 1 | 3 ms, beats 15.5% | - | 7 Jun 2025 |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 | [Python](https://github.com/samy-D5/Leetcode/blob/main/Python/Math/3345-smallest-divisible-digit-product-i.md) | 1 | 0 ms, beats 100.0% | - | 7 Aug 2026 |
-| 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | 🟡 | ⏳ not imported yet | - | - | - | - |
-| 3899 | [Angles of a Triangle](https://leetcode.com/problems/angles-of-a-triangle/) | 🟡 | ⏳ not imported yet | - | - | - | - |
-| 4034 | [Minimum Bishop Moves to Reach Target](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/) | 🟡 | ⏳ not imported yet | - | - | - | - |
+| 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3432-count-partitions-with-even-sum-difference.md) | 1 | 0 ms, beats 100.0% | - | 11 Dec 2025 |
+| 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3512-minimum-operations-to-make-array-sum-divisible-by-k.md) | 1 | 1 ms, beats 94.5% | - | 30 Nov 2025 |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3516-find-closest-person.md) | 1 | 0 ms, beats 100.0% | - | 18 Sept 2025 |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3550-smallest-index-with-digit-sum-equal-to-index.md) | 1 | 1 ms, beats 99.6% | - | 23 Sept 2025 |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3736-minimum-moves-to-equal-array-elements-iii.md) | 1 | 2 ms, beats 19.5% | - | 8 Nov 2025 |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3875-construct-uniform-parity-array-i.md) | 1 | 0 ms, beats 100.0% | - | 2 Sept 2026 |
+| 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3895-count-digit-appearances.md) | 1 | 4 ms, beats 98.0% | - | 11 Apr 2026 |
+| 3899 | [Angles of a Triangle](https://leetcode.com/problems/angles-of-a-triangle/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/3899-angles-of-a-triangle.md) | 1 | 3 ms, beats 94.1% | - | 12 Apr 2026 |
+| 4034 | [Minimum Bishop Moves to Reach Target](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/4034-minimum-bishop-moves-to-reach-target.md) | 1 | 0 ms, beats 100.0% | - | 1 Sept 2026 |
 
 </details>
 
@@ -305,9 +305,9 @@ _Grouped by topic folder. Click a topic to expand it._
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/3162-find-the-number-of-good-pairs-i.md) | 1 | 1 ms, beats 99.9% | - | 1 Dec 2025 |
 | 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/3184-count-pairs-that-form-a-complete-day-i.md) | 1 | 1 ms, beats 99.5% | - | 16 Jun 2024 |
 | 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/3223-minimum-length-of-string-after-operations.md) | 1 | 92 ms, beats 8.3% | - | 21 Jan 2025 |
-| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/3541-find-most-frequent-vowel-and-consonant.md) | 1 | 1 ms, beats 100.0% | - | 9 Jun 2025 |
+| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | 🟢 | [JavaScript](https://github.com/samy-D5/Leetcode/blob/main/JavaScript/Hash%20Table/3606-coupon-code-validator.md) | 1 | 4 ms, beats 72.7% | - | 14 Dec 2025 |
+| 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/3740-minimum-distance-between-three-equal-elements-i.md) | 1 | 7 ms, beats 23.4% | - | 9 Nov 2025 |
 
 </details>
 
@@ -391,7 +391,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/3019-number-of-changing-keys.md) | 1 | 0 ms, beats 100.0% | - | 16 Jun 2025 |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/String/3110-score-of-a-string.md) | 1 | 1 ms, beats 97.4% | - | 10 Aug 2024 |
 | 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/String/3163-string-compression-iii.md) | 2 | 17 ms, beats 92.4% | - | 26 Nov 2024 |
-| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/3340-check-balanced-string.md) | 1 | 0 ms, beats 100.0% | - | 16 Jun 2025 |
 
 </details>
 
@@ -423,8 +423,8 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Greedy/2697-lexicographically-smallest-palindrome.md) | 1 | 3 ms, beats 78.0% | - | 16 Jun 2025 |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/2864-maximum-odd-binary-number.md) | 1 | 1 ms, beats 100.0% | - | 30 Mar 2024 |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Greedy/3016-minimum-number-of-pushes-to-type-word-ii.md) | 1 | 0 ms, beats 100.0% | - | 16 Jun 2025 |
-| 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3810 | [Minimum Operations to Reach Target Array](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | 🟡 | ⏳ not imported yet | - | - | - | - |
+| 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/3684-maximize-sum-of-at-most-k-distinct-elements.md) | 1 | 9 ms, beats 52.2% | - | 11 Apr 2026 |
+| 3810 | [Minimum Operations to Reach Target Array](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/3810-minimum-operations-to-reach-target-array.md) | 1 | 24 ms, beats 89.3% | - | 17 Jan 2026 |
 
 </details>
 
@@ -454,8 +454,8 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2798-number-of-employees-who-met-the-target.md) | 1 | 0 ms, beats 100.0% | - | 6 Jun 2024 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.md) | 1 | 1 ms, beats 97.1% | - | 16 Feb 2025 |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/3151-special-array-i.md) | 1 | 0 ms, beats 100.0% | - | 9 Feb 2025 |
-| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3809 | [Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower/) | 🟡 | ⏳ not imported yet | - | - | - | - |
+| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/3423-maximum-difference-between-adjacent-elements-in-a-circular-array.md) | 1 | 1 ms, beats 99.7% | - | 14 Jun 2025 |
+| 3809 | [Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/3809-best-reachable-tower.md) | 1 | 3 ms, beats 70.1% | - | 17 Jan 2026 |
 
 </details>
 
@@ -479,14 +479,14 @@ _Grouped by topic folder. Click a topic to expand it._
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Simulation/3168-minimum-number-of-chairs-in-a-waiting-room.md) | 3 | 1 ms, beats 99.8% | - | 4 Aug 2024 |
 | 3222 | [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Simulation/3222-find-the-winning-player-in-coin-game.md) | 1 | 0 ms, beats 100.0% | - | 20 Jul 2024 |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Simulation/3248-snake-in-matrix.md) | 1 | 0 ms, beats 100.0% | - | 15 Jun 2025 |
-| 3271 | [Hash Divided String](https://leetcode.com/problems/hash-divided-string/) | 🟡 | ⏳ not imported yet | - | - | - | - |
+| 3271 | [Hash Divided String](https://leetcode.com/problems/hash-divided-string/) | 🟡 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Simulation/3271-hash-divided-string.md) | 1 | 0 ms, beats 100.0% | - | 15 Jun 2025 |
 | 3324 | [Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/) | 🟡 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Simulation/3324-find-the-sequence-of-strings-appeared-on-the-screen.md) | 1 | 31 ms, beats 36.3% | - | 16 Jun 2025 |
-| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | 🟢 | [Python](https://github.com/samy-D5/Leetcode/blob/main/Python/Simulation/3379-transformed-array.md) | 1 | 70 ms, beats 11.6% | - | 14 May 2026 |
+| 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Simulation/3461-check-if-digits-are-equal-in-string-after-operations-i.md) | 1 | 28 ms, beats 16.0% | - | 16 Jun 2025 |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Simulation/3498-reverse-degree-of-a-string.md) | 1 | 0 ms, beats 100.0% | - | 15 Jun 2025 |
+| 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Simulation/3813-vowel-consonant-score.md) | 1 | 1 ms, beats 100.0% | - | 18 Jan 2026 |
+| 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Simulation/3894-traffic-signal-color.md) | 1 | 0 ms, beats 100.0% | - | 11 Apr 2026 |
+| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Simulation/3921-score-validator.md) | 1 | 17 ms, beats 5.0% | - | 9 May 2026 |
 
 </details>
 
@@ -506,7 +506,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2882-drop-duplicate-rows.md) | 1 | 552 ms, beats 5.2% | - | 22 Dec 2024 |
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2884-modify-columns.md) | 2 | 319 ms, beats 8.0% | - | 11 Aug 2024 |
 | 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2885-rename-columns.md) | 1 | 259 ms, beats 92.3% | - | 30 May 2026 |
-| 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2886-change-data-type.md) | 2 | 269 ms, beats 79.4% | - | 10 May 2026 |
+| 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2886-change-data-type.md) | 3 | 269 ms, beats 79.4% | - | 10 May 2026 |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2888-reshape-data-concatenate.md) | 2 | 290 ms, beats 74.9% | - | 21 Nov 2025 |
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2890-reshape-data-melt.md) | 1 | 346 ms, beats 10.8% | - | 29 May 2026 |
 | 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) | 1 | - | - | 11 Oct 2026 |
@@ -664,7 +664,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 | ⏳ not imported yet | - | - | - | - |
-| 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 | ⏳ not imported yet | - | - | - | - |
+| 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Divide%20and%20Conquer/3737-count-subarrays-with-majority-element-i.md) | 1 | 51 ms, beats 11.0% | - | 8 Nov 2025 |
 
 </details>
 
@@ -677,7 +677,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Sorting/1913-maximum-product-difference-between-two-pairs.md) | 2 | 7 ms, beats 60.0% | - | 19 Jun 2024 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Sorting/3010-divide-an-array-into-subarrays-with-minimum-cost-i.md) | 1 | 1 ms, beats 98.4% | - | 26 Feb 2026 |
-| 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | 🟢 | [C](https://github.com/samy-D5/Leetcode/blob/main/C/Sorting/3467-transform-array-by-parity.md) | 2 | 0 ms, beats 100.0% | - | 7 Jun 2025 |
 
 </details>
 
@@ -689,7 +689,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Matrix/1672-richest-customer-wealth.md) | 1 | 0 ms, beats 100.0% | - | 18 Jun 2024 |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Matrix/2373-largest-local-values-in-a-matrix.md) | 1 | 2 ms, beats 99.9% | - | 8 Jun 2025 |
-| 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Matrix/3898-find-the-degree-of-each-vertex.md) | 1 | 2 ms, beats 69.2% | - | 12 Apr 2026 |
 
 </details>
 
