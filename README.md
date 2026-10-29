@@ -4,9 +4,9 @@
 
 <img alt="Samihan's LeetCode Journey" src=".leetstash/banner.svg" width="100%">
 
-<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-400-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-2%20days-f0883e?style=for-the-badge">
+<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-398-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-1%20day-f0883e?style=for-the-badge">
 
-<b><a href="#ls-recent">Recent</a> &nbsp;·&nbsp; <a href="#ls-progress">Progress</a> &nbsp;·&nbsp; <a href="#ls-skills">Skills</a> &nbsp;·&nbsp; <a href="#ls-languages">Languages</a> &nbsp;·&nbsp; <a href="#ls-problems">All problems</a></b>
+<b><a href="#ls-activity">Activity</a> &nbsp;·&nbsp; <a href="#ls-recent">Recent</a> &nbsp;·&nbsp; <a href="#ls-progress">Progress</a> &nbsp;·&nbsp; <a href="#ls-skills">Skills</a> &nbsp;·&nbsp; <a href="#ls-languages">Languages</a> &nbsp;·&nbsp; <a href="#ls-problems">All problems</a></b>
 
 <img alt="Samihan's LeetCode stats" src=".leetstash/card.svg" width="100%">
 
@@ -16,22 +16,30 @@
 
 </div>
 
+<a id="ls-activity"></a>
+
+## 🔥 Activity
+
+<p align="center"><img alt="Samihan's LeetCode activity heatmap" src=".leetstash/heatmap.svg" width="100%"></p>
+
+<p align="right"><a href="#ls-top">↑ Back to top</a></p>
+
 <a id="ls-recent"></a>
 
 ## 🕒 Recent activity
 
 | Date | Problem | Difficulty | Solution |
 |---|---|---|---|
+| 29 Oct 2026 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0001-two-sum.md) · [Python](https://github.com/samy-D5/Leetcode/blob/main/Python/Hash%20Table/0001-two-sum.md) |
 | 24 Oct 2026 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/2409-count-days-spent-together.md) |
 | 23 Oct 2026 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0617-merge-two-binary-trees.md) |
 | 20 Oct 2026 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/2089-find-target-indices-after-sorting-array.md) |
-| 14 Oct 2026 | Sum of Squares of Special Elements  | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2778-sum-of-squares-of-special-elements.md) |
-| 11 Oct 2026 | Prime Subset Selection I | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) |
-| 11 Oct 2026 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4079-prime-subset-selection-i.md) |
-| 11 Oct 2026 | Three Fibonacci Sum | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) |
-| 11 Oct 2026 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) |
-| 9 Oct 2026 | Remove Outermost Parentheses | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1021-remove-outermost-parentheses.md) |
+| 14 Oct 2026 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2778-sum-of-squares-of-special-elements.md) |
+| 11 Oct 2026 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4079-prime-subset-selection-i.md) |
+| 11 Oct 2026 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) |
+| 9 Oct 2026 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1021-remove-outermost-parentheses.md) |
 | 7 Oct 2026 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) |
+| 29 Sept 2026 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0234-palindrome-linked-list.md) |
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
@@ -45,7 +53,7 @@ xychart-beta
     title "Problems solved (total)"
     x-axis ["Nov 25", "Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26", "May 26", "Jun 26", "Jul 26", "Aug 26", "Sept 26", "Oct 26"]
     y-axis "Solved" 0 --> 320
-    line [229, 239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 276]
+    line [229, 239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 274]
 ```
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
@@ -72,9 +80,9 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 | Counting | **23** | 12 | 11 | 0 | `██░░░░░░░░░░░░░░` |
 | Linked List | **21** | 9 | 12 | 0 | `██░░░░░░░░░░░░░░` |
 | Stack | **20** | 11 | 8 | 1 | `██░░░░░░░░░░░░░░` |
-| Uncategorized | **18** | 16 | 2 | 0 | `██░░░░░░░░░░░░░░` |
 | Prefix Sum | **17** | 5 | 11 | 1 | `██░░░░░░░░░░░░░░` |
 | Bit Manipulation | **16** | 10 | 6 | 0 | `██░░░░░░░░░░░░░░` |
+| Uncategorized | **16** | 15 | 1 | 0 | `██░░░░░░░░░░░░░░` |
 
 <details><summary>52 more topics</summary>
 
@@ -143,13 +151,13 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 | Language | Problems | |
 |---|---|---|
-| Java | 199 | `████████████████` |
+| Java | 197 | `████████████████` |
 | C++ | 38 | `███░░░░░░░░░░░░░` |
 | mysql | 20 | `██░░░░░░░░░░░░░░` |
 | pythondata | 16 | `█░░░░░░░░░░░░░░░` |
 | C | 9 | `█░░░░░░░░░░░░░░░` |
 | JavaScript | 6 | `█░░░░░░░░░░░░░░░` |
-| Python | 2 | `█░░░░░░░░░░░░░░░` |
+| Python | 3 | `█░░░░░░░░░░░░░░░` |
 | postgresql | 1 | `█░░░░░░░░░░░░░░░` |
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
@@ -158,7 +166,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 ## 📚 All problems
 
-**Jump to:** <a href="#ls-topic-math">Math</a>&nbsp;(47) · <a href="#ls-topic-database">Database</a>&nbsp;(40) · <a href="#ls-topic-hash-table">Hash Table</a>&nbsp;(39) · <a href="#ls-topic-two-pointers">Two Pointers</a>&nbsp;(35) · <a href="#ls-topic-string">String</a>&nbsp;(33) · <a href="#ls-topic-greedy">Greedy</a>&nbsp;(25) · <a href="#ls-topic-array">Array</a>&nbsp;(23) · <a href="#ls-topic-simulation">Simulation</a>&nbsp;(23) · <a href="#ls-topic-uncategorized">Uncategorized</a>&nbsp;(18) · <a href="#ls-topic-tree">Tree</a>&nbsp;(15) · <a href="#ls-topic-bit-manipulation">Bit Manipulation</a>&nbsp;(13) · <a href="#ls-topic-binary-search">Binary Search</a>&nbsp;(12) · <a href="#ls-topic-linked-list">Linked List</a>&nbsp;(12) · <a href="#ls-topic-dynamic-programming">Dynamic Programming</a>&nbsp;(11) · <a href="#ls-topic-stack">Stack</a>&nbsp;(11) · <a href="#ls-topic-backtracking">Backtracking</a>&nbsp;(10) · <a href="#ls-topic-divide-and-conquer">Divide and Conquer</a>&nbsp;(6) · <a href="#ls-topic-sorting">Sorting</a>&nbsp;(5) · <a href="#ls-topic-matrix">Matrix</a>&nbsp;(4) · <a href="#ls-topic-sliding-window">Sliding Window</a>&nbsp;(4) · <a href="#ls-topic-string-matching">String Matching</a>&nbsp;(4) · <a href="#ls-topic-heap-priority-queue">Heap (Priority Queue)</a>&nbsp;(3) · <a href="#ls-topic-trie">Trie</a>&nbsp;(2) · <a href="#ls-topic-concurrency">Concurrency</a>&nbsp;(1) · <a href="#ls-topic-design">Design</a>&nbsp;(1) · <a href="#ls-topic-graph-theory">Graph Theory</a>&nbsp;(1) · <a href="#ls-topic-queue">Queue</a>&nbsp;(1) · <a href="#ls-topic-shell">Shell</a>&nbsp;(1)
+**Jump to:** <a href="#ls-topic-math">Math</a>&nbsp;(47) · <a href="#ls-topic-database">Database</a>&nbsp;(40) · <a href="#ls-topic-hash-table">Hash Table</a>&nbsp;(39) · <a href="#ls-topic-two-pointers">Two Pointers</a>&nbsp;(35) · <a href="#ls-topic-string">String</a>&nbsp;(33) · <a href="#ls-topic-greedy">Greedy</a>&nbsp;(25) · <a href="#ls-topic-array">Array</a>&nbsp;(23) · <a href="#ls-topic-simulation">Simulation</a>&nbsp;(23) · <a href="#ls-topic-uncategorized">Uncategorized</a>&nbsp;(16) · <a href="#ls-topic-tree">Tree</a>&nbsp;(15) · <a href="#ls-topic-bit-manipulation">Bit Manipulation</a>&nbsp;(13) · <a href="#ls-topic-binary-search">Binary Search</a>&nbsp;(12) · <a href="#ls-topic-linked-list">Linked List</a>&nbsp;(12) · <a href="#ls-topic-dynamic-programming">Dynamic Programming</a>&nbsp;(11) · <a href="#ls-topic-stack">Stack</a>&nbsp;(11) · <a href="#ls-topic-backtracking">Backtracking</a>&nbsp;(10) · <a href="#ls-topic-divide-and-conquer">Divide and Conquer</a>&nbsp;(6) · <a href="#ls-topic-sorting">Sorting</a>&nbsp;(5) · <a href="#ls-topic-matrix">Matrix</a>&nbsp;(4) · <a href="#ls-topic-sliding-window">Sliding Window</a>&nbsp;(4) · <a href="#ls-topic-string-matching">String Matching</a>&nbsp;(4) · <a href="#ls-topic-heap-priority-queue">Heap (Priority Queue)</a>&nbsp;(3) · <a href="#ls-topic-trie">Trie</a>&nbsp;(2) · <a href="#ls-topic-concurrency">Concurrency</a>&nbsp;(1) · <a href="#ls-topic-design">Design</a>&nbsp;(1) · <a href="#ls-topic-graph-theory">Graph Theory</a>&nbsp;(1) · <a href="#ls-topic-queue">Queue</a>&nbsp;(1) · <a href="#ls-topic-shell">Shell</a>&nbsp;(1)
 
 _Grouped by topic folder. Click a topic to expand it._
 
@@ -225,7 +233,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 197 | Rising Temperature | 🟢 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0197-rising-temperature.md) | 1 | - | - | - |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0197-rising-temperature.md) | 1 | - | - | - |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Database/0511-game-play-analysis-i.md) | 1 | 301 ms, beats 50.4% | - | 19 May 2026 |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | 🟡 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0550-game-play-analysis-iv.md) | 1 | 548 ms, beats 83.6% | - | 26 Sept 2024 |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | 🟡 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/0570-managers-with-at-least-5-direct-reports.md) | 1 | 349 ms, beats 76.3% | - | 17 Sept 2024 |
@@ -237,7 +245,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | 🟢 | ⏳ not imported yet | - | - | - | - |
-| 1070 | Product Sales Analysis III | 🟡 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/1070-product-sales-analysis-iii.md) | 1 | - | - | - |
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | 🟡 | [mysql](https://github.com/samy-D5/Leetcode/blob/main/mysql/Database/1070-product-sales-analysis-iii.md) | 1 | - | - | - |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 | ⏳ not imported yet | - | - | - | - |
@@ -270,7 +278,7 @@ _Grouped by topic folder. Click a topic to expand it._
 
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0001-two-sum.md) | 4 | 0 ms, beats 100.0% | - | 31 Jan 2024 |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0001-two-sum.md) · [Python](https://github.com/samy-D5/Leetcode/blob/main/Python/Hash%20Table/0001-two-sum.md) | 5 | 0 ms, beats 100.0% | 14m 54s | 31 Jan 2024 |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0073-set-matrix-zeroes.md) | 1 | 1 ms, beats 95.8% | - | 12 May 2025 |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0217-contains-duplicate.md) | 1 | 19 ms, beats 47.3% | - | 1 Sept 2026 |
@@ -401,13 +409,13 @@ _Grouped by topic folder. Click a topic to expand it._
 
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
-| 409 | Longest Palindrome | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/0409-longest-palindrome.md) | 1 | - | - | - |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/0409-longest-palindrome.md) | 1 | - | - | - |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/0561-array-partition.md) | 2 | 15 ms, beats 96.7% | - | 19 Jun 2024 |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | 🟡 | ⏳ not imported yet | - | - | - | - |
-| 1221 | Split a String in Balanced Strings | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/1221-split-a-string-in-balanced-strings.md) | 1 | - | - | - |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Greedy/1221-split-a-string-in-balanced-strings.md) | 1 | - | - | - |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 🟡 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Greedy/1689-partitioning-into-minimum-number-of-deci-binary-numbers.md) | 1 | 3 ms, beats 39.7% | - | 15 Jun 2025 |
@@ -451,7 +459,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2239-find-closest-number-to-zero.md) | 2 | 2 ms, beats 84.7% | - | 30 Oct 2024 |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2270-number-of-ways-to-split-array.md) | 1 | 3 ms, beats 62.0% | - | 21 Jan 2025 |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2574-left-and-right-sum-differences.md) | 1 | 2 ms, beats 98.7% | - | 12 Jul 2024 |
-| 2778 | Sum of Squares of Special Elements  | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2778-sum-of-squares-of-special-elements.md) | 1 | - | - | 14 Oct 2026 |
+| 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2778-sum-of-squares-of-special-elements.md) | 1 | - | - | 14 Oct 2026 |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/2798-number-of-employees-who-met-the-target.md) | 1 | 0 ms, beats 100.0% | - | 6 Jun 2024 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.md) | 1 | 1 ms, beats 97.1% | - | 16 Feb 2025 |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Array/3151-special-array-i.md) | 1 | 0 ms, beats 100.0% | - | 9 Feb 2025 |
@@ -492,7 +500,7 @@ _Grouped by topic folder. Click a topic to expand it._
 </details>
 
 <a id="ls-topic-uncategorized"></a>
-<details><summary><b>Uncategorized</b> · 18 problems · 🟢 16 🟡 2 🔴 0</summary>
+<details><summary><b>Uncategorized</b> · 16 problems · 🟢 15 🟡 1 🔴 0</summary>
 
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
@@ -510,10 +518,8 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2886-change-data-type.md) | 3 | 269 ms, beats 79.4% | - | 10 May 2026 |
 | 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2888-reshape-data-concatenate.md) | 2 | 290 ms, beats 74.9% | - | 21 Nov 2025 |
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2890-reshape-data-melt.md) | 1 | 346 ms, beats 10.8% | - | 29 May 2026 |
-| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) | 1 | - | - | 11 Oct 2026 |
-| 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4079-prime-subset-selection-i.md) | 1 | - | - | 11 Oct 2026 |
-| 101193 | Prime Subset Selection I | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) | 1 | - | - | 11 Oct 2026 |
-| 101210 | Three Fibonacci Sum | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) | 1 | - | - | 11 Oct 2026 |
+| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) | 2 | - | - | 11 Oct 2026 |
+| 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4079-prime-subset-selection-i.md) | 2 | - | - | 11 Oct 2026 |
 
 </details>
 
@@ -566,7 +572,7 @@ _Grouped by topic folder. Click a topic to expand it._
 
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
-| 35 | Search Insert Position | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/0035-search-insert-position.md) | 1 | - | - | - |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/0035-search-insert-position.md) | 1 | - | - | - |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/0069-sqrtx.md) | 1 | 1 ms, beats 100.0% | - | 15 Jul 2024 |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/0350-intersection-of-two-arrays-ii.md) | 1 | 3 ms, beats 93.8% | - | 8 Jul 2024 |
@@ -628,8 +634,8 @@ _Grouped by topic folder. Click a topic to expand it._
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/0020-valid-parentheses.md) | 1 | 1 ms, beats 99.9% | - | 24 Aug 2024 |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 | ⏳ not imported yet | - | - | - | - |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 | ⏳ not imported yet | - | - | - | - |
-| 856 | Score of Parentheses | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/0856-score-of-parentheses.md) | 1 | - | - | - |
-| 1021 | Remove Outermost Parentheses | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1021-remove-outermost-parentheses.md) | 1 | - | - | 9 Oct 2026 |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/0856-score-of-parentheses.md) | 1 | - | - | - |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1021-remove-outermost-parentheses.md) | 1 | - | - | 9 Oct 2026 |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | 🟢 | ⏳ not imported yet | - | - | - | - |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1614-maximum-nesting-depth-of-the-parentheses.md) · [C](https://github.com/samy-D5/Leetcode/blob/main/C/Stack/1614-maximum-nesting-depth-of-the-parentheses.md) | 2 | 0 ms, beats 100.0% | - | 8 Jun 2025 |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | 🟡 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/Stack/1910-remove-all-occurrences-of-a-substring.md) | 1 | 3 ms, beats 32.2% | - | 16 Jun 2025 |
@@ -647,7 +653,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Backtracking/0039-combination-sum.md) | 2 | 2 ms, beats 93.3% | - | 26 Nov 2025 |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Backtracking/0040-combination-sum-ii.md) | 1 | 5 ms, beats 98.3% | - | 27 Nov 2025 |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Backtracking/0051-n-queens.md) | 1 | 1 ms, beats 99.8% | - | 2 Dec 2025 |
-| 90 | Subsets II | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Backtracking/0090-subsets-ii.md) | 1 | - | - | - |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Backtracking/0090-subsets-ii.md) | 1 | - | - | - |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Backtracking/1863-sum-of-all-subset-xor-totals.md) | 2 | 0 ms, beats 100.0% | - | 18 Sept 2025 |
@@ -788,5 +794,5 @@ _Grouped by topic folder. Click a topic to expand it._
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
-<sub>Auto-generated by LeetStash on 24 Oct 2026. Edit anything outside the LeetStash markers and it will be kept.</sub>
+<sub>Auto-generated by LeetStash on 29 Oct 2026. Edit anything outside the LeetStash markers and it will be kept.</sub>
 <!-- leetstash:stats:end -->
