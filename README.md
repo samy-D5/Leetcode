@@ -4,7 +4,7 @@
 
 <img alt="Samihan's LeetCode Journey" src=".leetstash/banner.svg" width="100%">
 
-<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-398-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-1%20day-f0883e?style=for-the-badge">
+<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-400-2ea043?style=for-the-badge">
 
 <b><a href="#ls-activity">Activity</a> &nbsp;·&nbsp; <a href="#ls-recent">Recent</a> &nbsp;·&nbsp; <a href="#ls-progress">Progress</a> &nbsp;·&nbsp; <a href="#ls-skills">Skills</a> &nbsp;·&nbsp; <a href="#ls-languages">Languages</a> &nbsp;·&nbsp; <a href="#ls-problems">All problems</a></b>
 
@@ -12,7 +12,7 @@
 
 
 
-⏳ 117 solved problems still being imported from LeetCode.
+⏳ 119 solved problems still being imported from LeetCode.
 
 </div>
 
@@ -51,9 +51,9 @@
 %%{init: {"themeVariables": {"xyChart": {"plotColorPalette": "#ffa116"}}}}%%
 xychart-beta
     title "Problems solved (total)"
-    x-axis ["Nov 25", "Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26", "May 26", "Jun 26", "Jul 26", "Aug 26", "Sept 26", "Oct 26"]
+    x-axis ["Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26", "May 26", "Jun 26", "Jul 26", "Aug 26", "Sept 26", "Oct 26", "Nov 26"]
     y-axis "Solved" 0 --> 320
-    line [229, 239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 274]
+    line [239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 274, 274]
 ```
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
@@ -80,9 +80,9 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 | Counting | **23** | 12 | 11 | 0 | `██░░░░░░░░░░░░░░` |
 | Linked List | **21** | 9 | 12 | 0 | `██░░░░░░░░░░░░░░` |
 | Stack | **20** | 11 | 8 | 1 | `██░░░░░░░░░░░░░░` |
+| Uncategorized | **18** | 16 | 2 | 0 | `██░░░░░░░░░░░░░░` |
 | Prefix Sum | **17** | 5 | 11 | 1 | `██░░░░░░░░░░░░░░` |
 | Bit Manipulation | **16** | 10 | 6 | 0 | `██░░░░░░░░░░░░░░` |
-| Uncategorized | **16** | 15 | 1 | 0 | `██░░░░░░░░░░░░░░` |
 
 <details><summary>52 more topics</summary>
 
@@ -166,7 +166,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 ## 📚 All problems
 
-**Jump to:** <a href="#ls-topic-math">Math</a>&nbsp;(47) · <a href="#ls-topic-database">Database</a>&nbsp;(40) · <a href="#ls-topic-hash-table">Hash Table</a>&nbsp;(39) · <a href="#ls-topic-two-pointers">Two Pointers</a>&nbsp;(35) · <a href="#ls-topic-string">String</a>&nbsp;(33) · <a href="#ls-topic-greedy">Greedy</a>&nbsp;(25) · <a href="#ls-topic-array">Array</a>&nbsp;(23) · <a href="#ls-topic-simulation">Simulation</a>&nbsp;(23) · <a href="#ls-topic-uncategorized">Uncategorized</a>&nbsp;(16) · <a href="#ls-topic-tree">Tree</a>&nbsp;(15) · <a href="#ls-topic-bit-manipulation">Bit Manipulation</a>&nbsp;(13) · <a href="#ls-topic-binary-search">Binary Search</a>&nbsp;(12) · <a href="#ls-topic-linked-list">Linked List</a>&nbsp;(12) · <a href="#ls-topic-dynamic-programming">Dynamic Programming</a>&nbsp;(11) · <a href="#ls-topic-stack">Stack</a>&nbsp;(11) · <a href="#ls-topic-backtracking">Backtracking</a>&nbsp;(10) · <a href="#ls-topic-divide-and-conquer">Divide and Conquer</a>&nbsp;(6) · <a href="#ls-topic-sorting">Sorting</a>&nbsp;(5) · <a href="#ls-topic-matrix">Matrix</a>&nbsp;(4) · <a href="#ls-topic-sliding-window">Sliding Window</a>&nbsp;(4) · <a href="#ls-topic-string-matching">String Matching</a>&nbsp;(4) · <a href="#ls-topic-heap-priority-queue">Heap (Priority Queue)</a>&nbsp;(3) · <a href="#ls-topic-trie">Trie</a>&nbsp;(2) · <a href="#ls-topic-concurrency">Concurrency</a>&nbsp;(1) · <a href="#ls-topic-design">Design</a>&nbsp;(1) · <a href="#ls-topic-graph-theory">Graph Theory</a>&nbsp;(1) · <a href="#ls-topic-queue">Queue</a>&nbsp;(1) · <a href="#ls-topic-shell">Shell</a>&nbsp;(1)
+**Jump to:** <a href="#ls-topic-math">Math</a>&nbsp;(47) · <a href="#ls-topic-database">Database</a>&nbsp;(40) · <a href="#ls-topic-hash-table">Hash Table</a>&nbsp;(39) · <a href="#ls-topic-two-pointers">Two Pointers</a>&nbsp;(35) · <a href="#ls-topic-string">String</a>&nbsp;(33) · <a href="#ls-topic-greedy">Greedy</a>&nbsp;(25) · <a href="#ls-topic-array">Array</a>&nbsp;(23) · <a href="#ls-topic-simulation">Simulation</a>&nbsp;(23) · <a href="#ls-topic-uncategorized">Uncategorized</a>&nbsp;(18) · <a href="#ls-topic-tree">Tree</a>&nbsp;(15) · <a href="#ls-topic-bit-manipulation">Bit Manipulation</a>&nbsp;(13) · <a href="#ls-topic-binary-search">Binary Search</a>&nbsp;(12) · <a href="#ls-topic-linked-list">Linked List</a>&nbsp;(12) · <a href="#ls-topic-dynamic-programming">Dynamic Programming</a>&nbsp;(11) · <a href="#ls-topic-stack">Stack</a>&nbsp;(11) · <a href="#ls-topic-backtracking">Backtracking</a>&nbsp;(10) · <a href="#ls-topic-divide-and-conquer">Divide and Conquer</a>&nbsp;(6) · <a href="#ls-topic-sorting">Sorting</a>&nbsp;(5) · <a href="#ls-topic-matrix">Matrix</a>&nbsp;(4) · <a href="#ls-topic-sliding-window">Sliding Window</a>&nbsp;(4) · <a href="#ls-topic-string-matching">String Matching</a>&nbsp;(4) · <a href="#ls-topic-heap-priority-queue">Heap (Priority Queue)</a>&nbsp;(3) · <a href="#ls-topic-trie">Trie</a>&nbsp;(2) · <a href="#ls-topic-concurrency">Concurrency</a>&nbsp;(1) · <a href="#ls-topic-design">Design</a>&nbsp;(1) · <a href="#ls-topic-graph-theory">Graph Theory</a>&nbsp;(1) · <a href="#ls-topic-queue">Queue</a>&nbsp;(1) · <a href="#ls-topic-shell">Shell</a>&nbsp;(1)
 
 _Grouped by topic folder. Click a topic to expand it._
 
@@ -500,7 +500,7 @@ _Grouped by topic folder. Click a topic to expand it._
 </details>
 
 <a id="ls-topic-uncategorized"></a>
-<details><summary><b>Uncategorized</b> · 16 problems · 🟢 15 🟡 1 🔴 0</summary>
+<details><summary><b>Uncategorized</b> · 18 problems · 🟢 16 🟡 2 🔴 0</summary>
 
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
@@ -520,6 +520,8 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | 🟢 | [pythondata](https://github.com/samy-D5/Leetcode/blob/main/pythondata/Uncategorized/2890-reshape-data-melt.md) | 1 | 346 ms, beats 10.8% | - | 29 May 2026 |
 | 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) | 2 | - | - | 11 Oct 2026 |
 | 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4079-prime-subset-selection-i.md) | 2 | - | - | 11 Oct 2026 |
+| 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | 🟢 | ⏳ not imported yet | - | - | - | - |
+| 4093 | [Maximize Sum After At Most K Digit Rearrangements](https://leetcode.com/problems/maximize-sum-after-at-most-k-digit-rearrangements/) | 🟡 | ⏳ not imported yet | - | - | - | - |
 
 </details>
 
@@ -794,5 +796,5 @@ _Grouped by topic folder. Click a topic to expand it._
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
-<sub>Auto-generated by LeetStash on 29 Oct 2026. Edit anything outside the LeetStash markers and it will be kept.</sub>
+<sub>Auto-generated by LeetStash on 3 Nov 2026. Edit anything outside the LeetStash markers and it will be kept.</sub>
 <!-- leetstash:stats:end -->
