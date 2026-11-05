@@ -4,7 +4,7 @@
 
 <img alt="Samihan's LeetCode Journey" src=".leetstash/banner.svg" width="100%">
 
-<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-281-2ea043?style=for-the-badge">
+<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-282-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-1%20day-f0883e?style=for-the-badge">
 
 <b><a href="#ls-activity">Activity</a> &nbsp;·&nbsp; <a href="#ls-recent">Recent</a> &nbsp;·&nbsp; <a href="#ls-progress">Progress</a> &nbsp;·&nbsp; <a href="#ls-skills">Skills</a> &nbsp;·&nbsp; <a href="#ls-languages">Languages</a> &nbsp;·&nbsp; <a href="#ls-problems">All problems</a></b>
 
@@ -30,6 +30,7 @@
 
 | Date | Problem | Difficulty | Solution |
 |---|---|---|---|
+| 5 Nov 2026 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0202-happy-number.md) |
 | 29 Oct 2026 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0001-two-sum.md) · [Python](https://github.com/samy-D5/Leetcode/blob/main/Python/Hash%20Table/0001-two-sum.md) |
 | 24 Oct 2026 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/2409-count-days-spent-together.md) |
 | 23 Oct 2026 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0617-merge-two-binary-trees.md) |
@@ -39,7 +40,6 @@
 | 11 Oct 2026 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) |
 | 9 Oct 2026 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1021-remove-outermost-parentheses.md) |
 | 7 Oct 2026 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) |
-| 29 Sept 2026 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0234-palindrome-linked-list.md) |
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
@@ -53,7 +53,7 @@ xychart-beta
     title "Problems solved (total)"
     x-axis ["Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26", "May 26", "Jun 26", "Jul 26", "Aug 26", "Sept 26", "Oct 26", "Nov 26"]
     y-axis "Solved" 0 --> 320
-    line [239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 274, 274]
+    line [239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 274, 275]
 ```
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
@@ -70,10 +70,10 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 |---|---|---|---|---|---|
 | Array | **118** | 83 | 34 | 1 | `████████████████` |
 | String | **95** | 65 | 30 | 0 | `█████████████░░░` |
-| Math | **62** | 51 | 11 | 0 | `████████░░░░░░░░` |
-| Hash Table | **41** | 26 | 15 | 0 | `██████░░░░░░░░░░` |
+| Math | **63** | 52 | 11 | 0 | `█████████░░░░░░░` |
+| Hash Table | **42** | 27 | 15 | 0 | `██████░░░░░░░░░░` |
 | Simulation | **35** | 24 | 11 | 0 | `█████░░░░░░░░░░░` |
-| Two Pointers | **29** | 14 | 15 | 0 | `████░░░░░░░░░░░░` |
+| Two Pointers | **30** | 15 | 15 | 0 | `████░░░░░░░░░░░░` |
 | Sorting | **24** | 17 | 7 | 0 | `███░░░░░░░░░░░░░` |
 | Database | **23** | 19 | 4 | 0 | `███░░░░░░░░░░░░░` |
 | Greedy | **23** | 10 | 13 | 0 | `███░░░░░░░░░░░░░` |
@@ -84,7 +84,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 | Bit Manipulation | **12** | 7 | 5 | 0 | `██░░░░░░░░░░░░░░` |
 | Linked List | **11** | 3 | 8 | 0 | `█░░░░░░░░░░░░░░░` |
 
-<details><summary>39 more topics</summary>
+<details><summary>40 more topics</summary>
 
 | Topic | Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 | Doubly-Linked List | **1** | 0 | 1 | 0 | `█░░░░░░░░░░░░░░░` |
 | DP on Trees | **1** | 1 | 0 | 0 | `█░░░░░░░░░░░░░░░` |
 | Euclidean Algorithm | **1** | 1 | 0 | 0 | `█░░░░░░░░░░░░░░░` |
+| Floyd's Cycle Finding Algorithm | **1** | 1 | 0 | 0 | `█░░░░░░░░░░░░░░░` |
 | Game Theory | **1** | 1 | 0 | 0 | `█░░░░░░░░░░░░░░░` |
 | Geometry | **1** | 0 | 1 | 0 | `█░░░░░░░░░░░░░░░` |
 | Greatest Common Divisor | **1** | 1 | 0 | 0 | `█░░░░░░░░░░░░░░░` |
@@ -138,7 +139,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 | Language | Problems | |
 |---|---|---|
-| Java | 197 | `████████████████` |
+| Java | 198 | `████████████████` |
 | C++ | 38 | `███░░░░░░░░░░░░░` |
 | mysql | 20 | `██░░░░░░░░░░░░░░` |
 | pythondata | 16 | `█░░░░░░░░░░░░░░░` |
@@ -153,7 +154,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 ## 📚 All problems
 
-**Jump to:** <a href="#ls-topic-math">Math</a>&nbsp;(40) · <a href="#ls-topic-string">String</a>&nbsp;(28) · <a href="#ls-topic-database">Database</a>&nbsp;(23) · <a href="#ls-topic-simulation">Simulation</a>&nbsp;(23) · <a href="#ls-topic-hash-table">Hash Table</a>&nbsp;(22) · <a href="#ls-topic-two-pointers">Two Pointers</a>&nbsp;(21) · <a href="#ls-topic-array">Array</a>&nbsp;(19) · <a href="#ls-topic-greedy">Greedy</a>&nbsp;(19) · <a href="#ls-topic-uncategorized">Uncategorized</a>&nbsp;(16) · <a href="#ls-topic-bit-manipulation">Bit Manipulation</a>&nbsp;(9) · <a href="#ls-topic-backtracking">Backtracking</a>&nbsp;(8) · <a href="#ls-topic-stack">Stack</a>&nbsp;(8) · <a href="#ls-topic-linked-list">Linked List</a>&nbsp;(7) · <a href="#ls-topic-binary-search">Binary Search</a>&nbsp;(6) · <a href="#ls-topic-dynamic-programming">Dynamic Programming</a>&nbsp;(5) · <a href="#ls-topic-tree">Tree</a>&nbsp;(5) · <a href="#ls-topic-sliding-window">Sliding Window</a>&nbsp;(4) · <a href="#ls-topic-sorting">Sorting</a>&nbsp;(4) · <a href="#ls-topic-heap-priority-queue">Heap (Priority Queue)</a>&nbsp;(3) · <a href="#ls-topic-matrix">Matrix</a>&nbsp;(3) · <a href="#ls-topic-string-matching">String Matching</a>&nbsp;(2) · <a href="#ls-topic-trie">Trie</a>&nbsp;(2) · <a href="#ls-topic-design">Design</a>&nbsp;(1) · <a href="#ls-topic-divide-and-conquer">Divide and Conquer</a>&nbsp;(1) · <a href="#ls-topic-graph-theory">Graph Theory</a>&nbsp;(1) · <a href="#ls-topic-queue">Queue</a>&nbsp;(1)
+**Jump to:** <a href="#ls-topic-math">Math</a>&nbsp;(40) · <a href="#ls-topic-string">String</a>&nbsp;(28) · <a href="#ls-topic-database">Database</a>&nbsp;(23) · <a href="#ls-topic-simulation">Simulation</a>&nbsp;(23) · <a href="#ls-topic-hash-table">Hash Table</a>&nbsp;(22) · <a href="#ls-topic-two-pointers">Two Pointers</a>&nbsp;(22) · <a href="#ls-topic-array">Array</a>&nbsp;(19) · <a href="#ls-topic-greedy">Greedy</a>&nbsp;(19) · <a href="#ls-topic-uncategorized">Uncategorized</a>&nbsp;(16) · <a href="#ls-topic-bit-manipulation">Bit Manipulation</a>&nbsp;(9) · <a href="#ls-topic-backtracking">Backtracking</a>&nbsp;(8) · <a href="#ls-topic-stack">Stack</a>&nbsp;(8) · <a href="#ls-topic-linked-list">Linked List</a>&nbsp;(7) · <a href="#ls-topic-binary-search">Binary Search</a>&nbsp;(6) · <a href="#ls-topic-dynamic-programming">Dynamic Programming</a>&nbsp;(5) · <a href="#ls-topic-tree">Tree</a>&nbsp;(5) · <a href="#ls-topic-sliding-window">Sliding Window</a>&nbsp;(4) · <a href="#ls-topic-sorting">Sorting</a>&nbsp;(4) · <a href="#ls-topic-heap-priority-queue">Heap (Priority Queue)</a>&nbsp;(3) · <a href="#ls-topic-matrix">Matrix</a>&nbsp;(3) · <a href="#ls-topic-string-matching">String Matching</a>&nbsp;(2) · <a href="#ls-topic-trie">Trie</a>&nbsp;(2) · <a href="#ls-topic-design">Design</a>&nbsp;(1) · <a href="#ls-topic-divide-and-conquer">Divide and Conquer</a>&nbsp;(1) · <a href="#ls-topic-graph-theory">Graph Theory</a>&nbsp;(1) · <a href="#ls-topic-queue">Queue</a>&nbsp;(1)
 
 _Grouped by topic folder. Click a topic to expand it._
 
@@ -334,7 +335,7 @@ _Grouped by topic folder. Click a topic to expand it._
 </details>
 
 <a id="ls-topic-two-pointers"></a>
-<details><summary><b>Two Pointers</b> · 21 problems · 🟢 11 🟡 10 🔴 0</summary>
+<details><summary><b>Two Pointers</b> · 22 problems · 🟢 12 🟡 10 🔴 0</summary>
 
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
@@ -342,6 +343,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0019-remove-nth-node-from-end-of-list.md) | 3 | 0 ms, beats 100.0% | - | 20 Jul 2024 |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0026-remove-duplicates-from-sorted-array.md) | 4 | 0 ms, beats 100.0% | - | 17 Sept 2024 |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0027-remove-element.md) | 1 | 0 ms, beats 100.0% | - | 8 Aug 2024 |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0202-happy-number.md) | 1 | 2 ms, beats 22.6% | 14m 57s | 5 Nov 2026 |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0234-palindrome-linked-list.md) | 1 | 7 ms, beats 27.3% | - | 29 Sept 2026 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0283-move-zeroes.md) | 2 | 1 ms, beats 99.9% | - | 29 Sept 2024 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0344-reverse-string.md) | 2 | 0 ms, beats 100.0% | - | 30 Mar 2024 |
@@ -648,5 +650,5 @@ _Grouped by topic folder. Click a topic to expand it._
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
-<sub>Auto-generated by LeetStash on 3 Nov 2026. Edit anything outside the LeetStash markers and it will be kept.</sub>
+<sub>Auto-generated by LeetStash on 5 Nov 2026. Edit anything outside the LeetStash markers and it will be kept.</sub>
 <!-- leetstash:stats:end -->
