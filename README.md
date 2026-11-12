@@ -4,7 +4,7 @@
 
 <img alt="Samihan's LeetCode Journey" src=".leetstash/banner.svg" width="100%">
 
-<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-282-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-1%20day-f0883e?style=for-the-badge">
+<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-283-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-1%20day-f0883e?style=for-the-badge">
 
 <b><a href="#ls-activity">Activity</a> &nbsp;·&nbsp; <a href="#ls-recent">Recent</a> &nbsp;·&nbsp; <a href="#ls-progress">Progress</a> &nbsp;·&nbsp; <a href="#ls-skills">Skills</a> &nbsp;·&nbsp; <a href="#ls-languages">Languages</a> &nbsp;·&nbsp; <a href="#ls-problems">All problems</a></b>
 
@@ -30,6 +30,7 @@
 
 | Date | Problem | Difficulty | Solution |
 |---|---|---|---|
+| 13 Nov 2026 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0102-binary-tree-level-order-traversal.md) |
 | 5 Nov 2026 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0202-happy-number.md) |
 | 29 Oct 2026 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0001-two-sum.md) · [Python](https://github.com/samy-D5/Leetcode/blob/main/Python/Hash%20Table/0001-two-sum.md) |
 | 24 Oct 2026 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/2409-count-days-spent-together.md) |
@@ -39,7 +40,6 @@
 | 11 Oct 2026 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101193-prime-subset-selection-i.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4079-prime-subset-selection-i.md) |
 | 11 Oct 2026 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/101210-three-fibonacci-sum.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Uncategorized/4078-three-fibonacci-sum.md) |
 | 9 Oct 2026 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Stack/1021-remove-outermost-parentheses.md) |
-| 7 Oct 2026 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) |
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
@@ -53,7 +53,7 @@ xychart-beta
     title "Problems solved (total)"
     x-axis ["Dec 25", "Jan 26", "Feb 26", "Mar 26", "Apr 26", "May 26", "Jun 26", "Jul 26", "Aug 26", "Sept 26", "Oct 26", "Nov 26"]
     y-axis "Solved" 0 --> 320
-    line [239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 274, 275]
+    line [239, 245, 246, 246, 251, 261, 261, 261, 262, 266, 274, 276]
 ```
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
@@ -93,14 +93,14 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 | Enumeration | **7** | 7 | 0 | 0 | `█░░░░░░░░░░░░░░░` |
 | Depth-First Search | **6** | 4 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
 | Recursion | **6** | 4 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
+| Tree | **6** | 4 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
+| Binary Tree | **5** | 3 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
 | Dynamic Programming | **5** | 1 | 4 | 0 | `█░░░░░░░░░░░░░░░` |
 | Matrix | **5** | 3 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
 | Number Theory | **5** | 3 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
 | Sliding Window | **5** | 2 | 3 | 0 | `█░░░░░░░░░░░░░░░` |
-| Tree | **5** | 4 | 1 | 0 | `█░░░░░░░░░░░░░░░` |
-| Binary Tree | **4** | 3 | 1 | 0 | `█░░░░░░░░░░░░░░░` |
 | Bracket Sequences | **4** | 2 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
-| Breadth-First Search | **3** | 2 | 1 | 0 | `█░░░░░░░░░░░░░░░` |
+| Breadth-First Search | **4** | 2 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
 | Heap (Priority Queue) | **3** | 1 | 2 | 0 | `█░░░░░░░░░░░░░░░` |
 | String Matching | **3** | 2 | 1 | 0 | `█░░░░░░░░░░░░░░░` |
 | Combinatorics | **2** | 2 | 0 | 0 | `█░░░░░░░░░░░░░░░` |
@@ -139,7 +139,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 | Language | Problems | |
 |---|---|---|
-| Java | 198 | `████████████████` |
+| Java | 199 | `████████████████` |
 | C++ | 38 | `███░░░░░░░░░░░░░` |
 | mysql | 20 | `██░░░░░░░░░░░░░░` |
 | pythondata | 16 | `█░░░░░░░░░░░░░░░` |
@@ -154,7 +154,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 ## 📚 All problems
 
-**Jump to:** <a href="#ls-topic-math">Math</a>&nbsp;(40) · <a href="#ls-topic-string">String</a>&nbsp;(28) · <a href="#ls-topic-database">Database</a>&nbsp;(23) · <a href="#ls-topic-simulation">Simulation</a>&nbsp;(23) · <a href="#ls-topic-hash-table">Hash Table</a>&nbsp;(22) · <a href="#ls-topic-two-pointers">Two Pointers</a>&nbsp;(22) · <a href="#ls-topic-array">Array</a>&nbsp;(19) · <a href="#ls-topic-greedy">Greedy</a>&nbsp;(19) · <a href="#ls-topic-uncategorized">Uncategorized</a>&nbsp;(16) · <a href="#ls-topic-bit-manipulation">Bit Manipulation</a>&nbsp;(9) · <a href="#ls-topic-backtracking">Backtracking</a>&nbsp;(8) · <a href="#ls-topic-stack">Stack</a>&nbsp;(8) · <a href="#ls-topic-linked-list">Linked List</a>&nbsp;(7) · <a href="#ls-topic-binary-search">Binary Search</a>&nbsp;(6) · <a href="#ls-topic-dynamic-programming">Dynamic Programming</a>&nbsp;(5) · <a href="#ls-topic-tree">Tree</a>&nbsp;(5) · <a href="#ls-topic-sliding-window">Sliding Window</a>&nbsp;(4) · <a href="#ls-topic-sorting">Sorting</a>&nbsp;(4) · <a href="#ls-topic-heap-priority-queue">Heap (Priority Queue)</a>&nbsp;(3) · <a href="#ls-topic-matrix">Matrix</a>&nbsp;(3) · <a href="#ls-topic-string-matching">String Matching</a>&nbsp;(2) · <a href="#ls-topic-trie">Trie</a>&nbsp;(2) · <a href="#ls-topic-design">Design</a>&nbsp;(1) · <a href="#ls-topic-divide-and-conquer">Divide and Conquer</a>&nbsp;(1) · <a href="#ls-topic-graph-theory">Graph Theory</a>&nbsp;(1) · <a href="#ls-topic-queue">Queue</a>&nbsp;(1)
+**Jump to:** <a href="#ls-topic-math">Math</a>&nbsp;(40) · <a href="#ls-topic-string">String</a>&nbsp;(28) · <a href="#ls-topic-database">Database</a>&nbsp;(23) · <a href="#ls-topic-simulation">Simulation</a>&nbsp;(23) · <a href="#ls-topic-hash-table">Hash Table</a>&nbsp;(22) · <a href="#ls-topic-two-pointers">Two Pointers</a>&nbsp;(22) · <a href="#ls-topic-array">Array</a>&nbsp;(19) · <a href="#ls-topic-greedy">Greedy</a>&nbsp;(19) · <a href="#ls-topic-uncategorized">Uncategorized</a>&nbsp;(16) · <a href="#ls-topic-bit-manipulation">Bit Manipulation</a>&nbsp;(9) · <a href="#ls-topic-backtracking">Backtracking</a>&nbsp;(8) · <a href="#ls-topic-stack">Stack</a>&nbsp;(8) · <a href="#ls-topic-linked-list">Linked List</a>&nbsp;(7) · <a href="#ls-topic-binary-search">Binary Search</a>&nbsp;(6) · <a href="#ls-topic-tree">Tree</a>&nbsp;(6) · <a href="#ls-topic-dynamic-programming">Dynamic Programming</a>&nbsp;(5) · <a href="#ls-topic-sliding-window">Sliding Window</a>&nbsp;(4) · <a href="#ls-topic-sorting">Sorting</a>&nbsp;(4) · <a href="#ls-topic-heap-priority-queue">Heap (Priority Queue)</a>&nbsp;(3) · <a href="#ls-topic-matrix">Matrix</a>&nbsp;(3) · <a href="#ls-topic-string-matching">String Matching</a>&nbsp;(2) · <a href="#ls-topic-trie">Trie</a>&nbsp;(2) · <a href="#ls-topic-design">Design</a>&nbsp;(1) · <a href="#ls-topic-divide-and-conquer">Divide and Conquer</a>&nbsp;(1) · <a href="#ls-topic-graph-theory">Graph Theory</a>&nbsp;(1) · <a href="#ls-topic-queue">Queue</a>&nbsp;(1)
 
 _Grouped by topic folder. Click a topic to expand it._
 
@@ -520,6 +520,20 @@ _Grouped by topic folder. Click a topic to expand it._
 
 </details>
 
+<a id="ls-topic-tree"></a>
+<details><summary><b>Tree</b> · 6 problems · 🟢 4 🟡 2 🔴 0</summary>
+
+| # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
+|---|---|---|---|---|---|---|---|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) | 1 | - | - | 7 Oct 2026 |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0102-binary-tree-level-order-traversal.md) | 1 | 1 ms, beats 97.9% | 14m 57s | 13 Nov 2026 |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0543-diameter-of-binary-tree.md) | 1 | 1 ms, beats 44.4% | - | 13 Jan 2026 |
+| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0559-maximum-depth-of-n-ary-tree.md) | 1 | 0 ms, beats 100.0% | - | 12 Jan 2026 |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0617-merge-two-binary-trees.md) | 1 | 0 ms, beats 100.0% | 14m 54s | 23 Oct 2026 |
+| 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/2415-reverse-odd-levels-of-binary-tree.md) | 1 | 1 ms, beats 91.4% | - | 13 Jan 2026 |
+
+</details>
+
 <a id="ls-topic-dynamic-programming"></a>
 <details><summary><b>Dynamic Programming</b> · 5 problems · 🟢 1 🟡 4 🔴 0</summary>
 
@@ -530,19 +544,6 @@ _Grouped by topic folder. Click a topic to expand it._
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Dynamic%20Programming/0509-fibonacci-number.md) | 2 | 0 ms, beats 100.0% | - | 15 May 2025 |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Dynamic%20Programming/2110-number-of-smooth-descent-periods-of-a-stock.md) | 1 | 2 ms, beats 99.7% | - | 15 Dec 2025 |
 | 2957 | [Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Dynamic%20Programming/2957-remove-adjacent-almost-equal-characters.md) | 1 | 1 ms, beats 99.2% | - | 31 Oct 2024 |
-
-</details>
-
-<a id="ls-topic-tree"></a>
-<details><summary><b>Tree</b> · 5 problems · 🟢 4 🟡 1 🔴 0</summary>
-
-| # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
-|---|---|---|---|---|---|---|---|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) | 1 | - | - | 7 Oct 2026 |
-| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0543-diameter-of-binary-tree.md) | 1 | 1 ms, beats 44.4% | - | 13 Jan 2026 |
-| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0559-maximum-depth-of-n-ary-tree.md) | 1 | 0 ms, beats 100.0% | - | 12 Jan 2026 |
-| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0617-merge-two-binary-trees.md) | 1 | 0 ms, beats 100.0% | 14m 54s | 23 Oct 2026 |
-| 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/2415-reverse-odd-levels-of-binary-tree.md) | 1 | 1 ms, beats 91.4% | - | 13 Jan 2026 |
 
 </details>
 
@@ -650,5 +651,5 @@ _Grouped by topic folder. Click a topic to expand it._
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
-<sub>Auto-generated by LeetStash on 5 Nov 2026. Edit anything outside the LeetStash markers and it will be kept.</sub>
+<sub>Auto-generated by LeetStash on 13 Nov 2026. Edit anything outside the LeetStash markers and it will be kept.</sub>
 <!-- leetstash:stats:end -->
