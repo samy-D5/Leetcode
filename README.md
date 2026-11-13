@@ -30,9 +30,9 @@
 
 | Date | Problem | Difficulty | Solution |
 |---|---|---|---|
+| 13 Nov 2026 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0102-binary-tree-level-order-traversal.md) |
 | 13 Nov 2026 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) |
 | 13 Nov 2026 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0144-binary-tree-preorder-traversal.md) |
-| 13 Nov 2026 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0102-binary-tree-level-order-traversal.md) |
 | 5 Nov 2026 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Two%20Pointers/0202-happy-number.md) |
 | 29 Oct 2026 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0001-two-sum.md) · [Python](https://github.com/samy-D5/Leetcode/blob/main/Python/Hash%20Table/0001-two-sum.md) |
 | 24 Oct 2026 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/2409-count-days-spent-together.md) |
@@ -512,7 +512,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) | 2 | 0 ms, beats 100.0% | 2h 55m | 7 Oct 2026 |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0102-binary-tree-level-order-traversal.md) | 1 | 1 ms, beats 97.9% | 14m 57s | 13 Nov 2026 |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0102-binary-tree-level-order-traversal.md) | 2 | 1 ms, beats 97.9% | 14m 57s | 13 Nov 2026 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0144-binary-tree-preorder-traversal.md) | 2 | 0 ms, beats 100.0% | 8m 9s | 13 Nov 2026 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0543-diameter-of-binary-tree.md) | 1 | 1 ms, beats 44.4% | - | 13 Jan 2026 |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0559-maximum-depth-of-n-ary-tree.md) | 1 | 0 ms, beats 100.0% | - | 12 Jan 2026 |
