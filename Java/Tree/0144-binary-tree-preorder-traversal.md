@@ -44,3 +44,39 @@ class Solution {
 
 }
 ```
+
+## Approach 2 — 2026-11-13 14:18 (java)
+
+*Runtime: 0 ms (faster than 100.0%) · Memory: 42.6 MB · Time to solve: 8m 9s (estimated)*
+
+```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public List<Integer> preorderTraversal(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        return recursion(root, list);
+    }
+
+    public List<Integer> recursion(TreeNode root, List<Integer> list){
+        if(root==null) return list;
+        list.add(root.val);
+        recursion(root.left,list);
+        recursion(root.right,list);
+        return list;
+    }
+}
+```
