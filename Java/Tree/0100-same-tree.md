@@ -56,3 +56,47 @@ class Solution {
 **Time Complexity:** O(N)
 **Space Complexity:** O(N)
 
+## Approach 2 — 2026-11-15 13:36 (java)
+
+*Runtime: 0 ms (faster than 100.0%) · Memory: 42.8 MB*
+
+```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        List<Integer> one=new ArrayList<>();
+        List<Integer> two=new ArrayList<>();
+
+        preorder(p,one);
+        preorder(q,two);
+
+        return one.equals(two);
+    }
+
+    public void preorder(TreeNode root, List<Integer>list){
+        if(root==null){
+            list.add(null);
+            return;
+        }
+
+        list.add(root.val);
+
+        preorder(root.left,list);
+        preorder(root.right,list);
+    }
+}
+```
