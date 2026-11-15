@@ -4,9 +4,9 @@
 
 <img alt="Samihan's LeetCode Journey" src=".leetstash/banner.svg" width="100%">
 
-<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-286-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-1%20day-f0883e?style=for-the-badge">
+<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-286-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-1%20day-f0883e?style=for-the-badge"> <a href="#ls-badges"><img alt="LeetCode badges" src="https://img.shields.io/badge/Badges-10-8957e5?style=for-the-badge"></a>
 
-<b><a href="#ls-activity">Activity</a> &nbsp;·&nbsp; <a href="#ls-recent">Recent</a> &nbsp;·&nbsp; <a href="#ls-progress">Progress</a> &nbsp;·&nbsp; <a href="#ls-skills">Skills</a> &nbsp;·&nbsp; <a href="#ls-languages">Languages</a> &nbsp;·&nbsp; <a href="#ls-problems">All problems</a></b>
+<b><a href="#ls-activity">Activity</a> &nbsp;·&nbsp; <a href="#ls-badges">Badges</a> &nbsp;·&nbsp; <a href="#ls-recent">Recent</a> &nbsp;·&nbsp; <a href="#ls-progress">Progress</a> &nbsp;·&nbsp; <a href="#ls-skills">Skills</a> &nbsp;·&nbsp; <a href="#ls-languages">Languages</a> &nbsp;·&nbsp; <a href="#ls-problems">All problems</a></b>
 
 <img alt="Samihan's LeetCode stats" src=".leetstash/card.svg" width="100%">
 
@@ -21,6 +21,22 @@
 ## 🔥 Activity
 
 <p align="center"><img alt="Samihan's LeetCode activity heatmap" src=".leetstash/heatmap.svg" width="100%"></p>
+
+<p align="right"><a href="#ls-top">↑ Back to top</a></p>
+
+<a id="ls-badges"></a>
+
+## 🏅 Badges
+
+<p align="center"><b>10 badges earned on <a href="https://leetcode.com/u/5SAMD/">LeetCode</a></b></p>
+
+<table align="center"><tr><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/others/200_1080_1080.png" alt="200 Days Badge 2026" title="200 Days Badge 2026" width="72" height="72"><br><sub><b>200 Days Badge 2026</b></sub><br><sub>Nov 2026</sub></td><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" alt="500 Days Badge" title="500 Days Badge" width="72" height="72"><br><sub><b>500 Days Badge</b></sub><br><sub>Oct 2026</sub></td><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" alt="100 Days Badge 2026" title="100 Days Badge 2026" width="72" height="72"><br><sub><b>100 Days Badge 2026</b></sub><br><sub>Aug 2026</sub></td><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" alt="50 Days Badge 2026" title="50 Days Badge 2026" width="72" height="72"><br><sub><b>50 Days Badge 2026</b></sub><br><sub>Jun 2026</sub></td><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" alt="365 Days Badge" title="365 Days Badge" width="72" height="72"><br><sub><b>365 Days Badge</b></sub><br><sub>Jun 2026</sub></td></tr><tr><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="100 Days Badge 2025" title="100 Days Badge 2025" width="72" height="72"><br><sub><b>100 Days Badge 2025</b></sub><br><sub>Dec 2025</sub></td><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="50 Days Badge 2025" title="50 Days Badge 2025" width="72" height="72"><br><sub><b>50 Days Badge 2025</b></sub><br><sub>Jul 2025</sub></td><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" alt="200 Days Badge 2024" title="200 Days Badge 2024" width="72" height="72"><br><sub><b>200 Days Badge 2024</b></sub><br><sub>Dec 2024</sub></td><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100 Days Badge 2024" title="100 Days Badge 2024" width="72" height="72"><br><sub><b>100 Days Badge 2024</b></sub><br><sub>Aug 2024</sub></td><td align="center" valign="top" width="20%"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50 Days Badge 2024" title="50 Days Badge 2024" width="72" height="72"><br><sub><b>50 Days Badge 2024</b></sub><br><sub>Jul 2024</sub></td></tr></table>
+
+<details><summary>Next badges to earn (4)</summary>
+
+<table align="center"><tr><td align="center" valign="top" width="17%"><img src="https://leetcode.com/static/images/badges/dcc-2026-11.png" alt="Nov LeetCoding Challenge" title="Nov LeetCoding Challenge" width="48" height="48"><br><sub><b>Nov LeetCoding Challenge</b></sub></td><td align="center" valign="top" width="17%"><img src="https://leetcode.com/static/images/badges/dcc-2026-12.png" alt="Dec LeetCoding Challenge" title="Dec LeetCoding Challenge" width="48" height="48"><br><sub><b>Dec LeetCoding Challenge</b></sub></td><td align="center" valign="top" width="17%"><img src="https://leetcode.com/static/images/badges/dcc-2027-1.png" alt="Jan LeetCoding Challenge" title="Jan LeetCoding Challenge" width="48" height="48"><br><sub><b>Jan LeetCoding Challenge</b></sub></td><td align="center" valign="top" width="17%"><img src="https://leetcode.com/static/images/badges/dcc-2027-2.png" alt="Feb LeetCoding Challenge" title="Feb LeetCoding Challenge" width="48" height="48"><br><sub><b>Feb LeetCoding Challenge</b></sub></td></tr></table>
+
+</details>
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
