@@ -497,7 +497,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | # | Problem | Level | Solution | Approaches | Best runtime | Time | First solved |
 |---|---|---|---|---|---|---|---|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0094-binary-tree-inorder-traversal.md) | 2 | 0 ms, beats 100.0% | 2h 55m | 7 Oct 2026 |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0100-same-tree.md) | 1 | 0 ms, beats 100.0% | 54h 26m | 15 Nov 2026 |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0100-same-tree.md) | 2 | 0 ms, beats 100.0% | 54h 26m | 15 Nov 2026 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0102-binary-tree-level-order-traversal.md) | 2 | 1 ms, beats 97.9% | 14m 57s | 13 Nov 2026 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0144-binary-tree-preorder-traversal.md) | 2 | 0 ms, beats 100.0% | 8m 9s | 13 Nov 2026 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0543-diameter-of-binary-tree.md) | 1 | 1 ms, beats 44.4% | - | 13 Jan 2026 |
