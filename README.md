@@ -4,7 +4,7 @@
 
 <img alt="Samihan's LeetCode Journey" src=".leetstash/banner.svg" width="100%">
 
-<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-286-2ea043?style=for-the-badge"> <a href="#ls-badges"><img alt="LeetCode badges" src="https://img.shields.io/badge/Badges-10-8957e5?style=for-the-badge"></a>
+<a href="https://leetcode.com/u/5SAMD/"><img alt="LeetCode profile" src="https://img.shields.io/badge/LeetCode-5SAMD-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <img alt="Solved" src="https://img.shields.io/badge/Solved-286-2ea043?style=for-the-badge"> <img alt="Streak" src="https://img.shields.io/badge/Streak-1%20day-f0883e?style=for-the-badge"> <a href="#ls-badges"><img alt="LeetCode badges" src="https://img.shields.io/badge/Badges-10-8957e5?style=for-the-badge"></a>
 
 <b><a href="#ls-activity">Activity</a> &nbsp;·&nbsp; <a href="#ls-badges">Badges</a> &nbsp;·&nbsp; <a href="#ls-recent">Recent</a> &nbsp;·&nbsp; <a href="#ls-progress">Progress</a> &nbsp;·&nbsp; <a href="#ls-skills">Skills</a> &nbsp;·&nbsp; <a href="#ls-languages">Languages</a> &nbsp;·&nbsp; <a href="#ls-problems">All problems</a></b>
 
@@ -46,6 +46,7 @@
 
 | Date | Problem | Difficulty | Solution |
 |---|---|---|---|
+| 18 Nov 2026 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | 🟡 Medium | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/2914-minimum-number-of-changes-to-make-binary-string-beautiful.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/String/2914-minimum-number-of-changes-to-make-binary-string-beautiful.md) |
 | 15 Nov 2026 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0112-path-sum.md) |
 | 15 Nov 2026 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0100-same-tree.md) |
 | 13 Nov 2026 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 Medium | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0102-binary-tree-level-order-traversal.md) |
@@ -55,7 +56,6 @@
 | 29 Oct 2026 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Hash%20Table/0001-two-sum.md) · [Python](https://github.com/samy-D5/Leetcode/blob/main/Python/Hash%20Table/0001-two-sum.md) |
 | 24 Oct 2026 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Math/2409-count-days-spent-together.md) |
 | 23 Oct 2026 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Tree/0617-merge-two-binary-trees.md) |
-| 20 Oct 2026 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/Binary%20Search/2089-find-target-indices-after-sorting-array.md) |
 
 <p align="right"><a href="#ls-top">↑ Back to top</a></p>
 
@@ -155,7 +155,7 @@ _Topic coverage: a problem counts toward every topic it's tagged with._
 
 | Language | Problems | |
 |---|---|---|
-| Java | 202 | `████████████████` |
+| Java | 203 | `████████████████` |
 | C++ | 38 | `███░░░░░░░░░░░░░` |
 | mysql | 20 | `██░░░░░░░░░░░░░░` |
 | pythondata | 16 | `█░░░░░░░░░░░░░░░` |
@@ -249,7 +249,7 @@ _Grouped by topic folder. Click a topic to expand it._
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/2710-remove-trailing-zeros-from-a-string.md) | 1 | 1 ms, beats 44.6% | - | 16 Jun 2025 |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | 🟡 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/2785-sort-vowels-in-a-string.md) | 1 | 3 ms, beats 97.3% | - | 16 Jun 2025 |
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/2828-check-if-a-string-is-an-acronym-of-words.md) | 1 | 0 ms, beats 100.0% | - | 15 Jun 2025 |
-| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | 🟡 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/2914-minimum-number-of-changes-to-make-binary-string-beautiful.md) | 1 | 0 ms, beats 100.0% | - | 16 Jun 2025 |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | 🟡 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/2914-minimum-number-of-changes-to-make-binary-string-beautiful.md) · [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/String/2914-minimum-number-of-changes-to-make-binary-string-beautiful.md) | 2 | 0 ms, beats 100.0% | 19m 30s | 16 Jun 2025 |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/String/2942-find-words-containing-character.md) | 1 | 2 ms, beats 44.2% | - | 25 Jun 2024 |
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | 🟢 | [C++](https://github.com/samy-D5/Leetcode/blob/main/C%2B%2B/String/3019-number-of-changing-keys.md) | 1 | 0 ms, beats 100.0% | - | 16 Jun 2025 |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | 🟢 | [Java](https://github.com/samy-D5/Leetcode/blob/main/Java/String/3110-score-of-a-string.md) | 1 | 1 ms, beats 97.4% | - | 10 Aug 2024 |
